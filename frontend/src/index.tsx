@@ -11,6 +11,9 @@ import { NotFound } from './components/NotFound';
 
 
 ReactDOM.render(
+
+  // Router uppdelning 
+
 <React.StrictMode>
   <BrowserRouter>
     <Routes>
