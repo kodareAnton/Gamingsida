@@ -11,10 +11,10 @@ export const Layout = () => {
         <li>cheats</li>
     </ul>
 
-<img src="../public/img/Apex.jpg" alt="Apex" />
-<img src="" alt="Valorant" />
-<img src="" alt="Fortnite" />
-<img src="" alt="Mafia" />
+<img src="img/Apex.jpg" alt="Apex" />
+<img src="img/Valorant.jpg" alt="Valorant" />
+<img src="img/Fortnite.jpg" alt="Fortnite" />
+<img src="img/M.jpg" alt="Mafia" />
 
     <main><Outlet></Outlet></main>
 
